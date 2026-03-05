@@ -24,7 +24,7 @@ I am a 12th-grade student, passionate developer, and tech enthusiast from Vietna
 I am an active "CPer", constantly refining my algorithmic thinking and problem-solving speed. Check out my profiles below:
 
 * 🔵 **Codeforces:** [RemyVN](https://codeforces.com/profile/RemyVN)
-* 🔴 **VNOI (Vietnam Olympiad in Informatics):** [remyvnkhiemtruong](https://vnoi.info/user/remyvnkhiemtruong)
+* 🔴 **VNOI (Vietnam Olympiad in Informatics):** [remyvnkhiemtruong](https://oj.vnoi.info/user/remyvnkhiemtruong)
 
 ---
 
