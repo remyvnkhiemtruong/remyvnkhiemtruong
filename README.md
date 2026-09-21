@@ -70,16 +70,6 @@ My dedication to technology, mathematics, and languages has driven me to compete
 
 ---
 
-### 💻 Highlight Projects & Practical Experience
-
-Beyond algorithmic competitions, I actively build full-scale applications and hardware integrations:
-
-* 🌊 **IoT Flood Warning System (KHKT National Project):** An embedded hardware/software solution utilizing ESP32 microcontrollers, integrated with Machine Learning models and a Firebase backend to monitor, analyze, and predict environmental conditions in the Cà Mau/Bạc Liêu region.
-* 🛡️ **VVK Anticheat:** A custom-built, comprehensive anti-cheating software developed over several years. It features system process monitoring, automated screenshot capture, USB blocking capabilities, and real-time alert integration via a Telegram bot.
-* 🌐 **Full-Stack Web Deployments:** Developed and deployed functional web platforms, including local heritage portals and event Point-of-Sale (POS) systems, utilizing Node.js, Nginx, and cloud server configurations.
-
----
-
 ### 🛠️ Technical Arsenal
 
 <div align="center">
